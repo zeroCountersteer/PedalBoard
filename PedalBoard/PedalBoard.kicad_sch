@@ -5109,7 +5109,7 @@
 		)
 	)
 	(sheet
-		(at 139.7 97.79)
+		(at 128.27 144.78)
 		(size 34.29 41.91)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5125,7 +5125,7 @@
 		)
 		(uuid "848a106f-535e-4ec2-a16a-85bd0bd4682c")
 		(property "Sheetname" "Preamp"
-			(at 139.7 97.0784 0)
+			(at 128.27 144.0684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5134,7 +5134,7 @@
 			)
 		)
 		(property "Sheetfile" "preamp.kicad_sch"
-			(at 139.7 140.2846 0)
+			(at 128.27 187.2746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5143,7 +5143,7 @@
 			)
 		)
 		(property "Field2" ""
-			(at 139.7 97.79 0)
+			(at 128.27 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
